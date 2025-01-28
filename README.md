@@ -1,1 +1,2 @@
-Available in mywatter.netlify.app
+Available in:
+https://mywatter.netlify.app/
